@@ -20,12 +20,12 @@ We train a generative model on an uncorrupted data set (e.g. a Variational AutoE
 
 As an example we show samples from a bimodal posterior that we obtain from fitting a Gaussian mixture model to the posterior of a masked 4 (same 4 as above)
 
-![masked_4](/plots/4README/masked_4.png)
+![masked_4](/plots/4README/masked4.png)
 
-Samples in latent space:
+Samples in latent space:  
 ![posterior_example](/plots/4README/posterior_samples.png)
 
-and collection of these samples forward modeled to data space:
+and collection of these samples forward modeled to data space:  
 ![samples](/plots/4README/fwdmodeled_samples.png)
 
 ### How to use this repo?
