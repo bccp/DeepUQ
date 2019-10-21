@@ -1,8 +1,8 @@
 # DeepUQ
 ## Bayesian Uncertainty Quantification with Deep Generative Models
 
-Notebooks and trained models to reproduce the posterior analysis of all examples shown in  
-Vanessa Böhm, François Lanusse, Uroš Seljak: *Uncertainty Quantification with Generative Models*  
+Notebooks and trained models to reproduce the posterior analysis of all examples shown in the publication
+*Uncertainty Quantification with Generative Models*
 (accepted to Bayesian Deep Learning, NeurIPS 2019 Workshop).
 
 ### What is DeepUQ?
