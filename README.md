@@ -8,7 +8,7 @@ Vanessa Böhm, François Lanusse, Uroš Seljak: *Uncertainty Quantification with
 ### What is DeepUQ?
 DeepUQ is a generative model based approach for reconstructing uncorrupted data from corrupted data. In addition to providing a best guess (maximum a posteriori estimate) of the uncorrupted data, DeepUQ provides an uncertainty quantification of the reconstruction.
 
-### A reconstrcution example:
+### A reconstruction example:
 
 As an example we take an image from the test data set (left panel), corrupt it by adding noise and masking half of it (middle panel). We then run our reconstruction method to find the most likely uncorrupted image given the corrupted image and our generative model (right panel). 
 
