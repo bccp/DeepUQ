@@ -34,9 +34,7 @@ This gives us an estimate of the uncertainty of our reconstruction.
 The notebooks should be ready to plug and play (preferantially on a GPU). The module folder contains our pretrained generative model that the notebooks need to access. Each notebook contains essentially the same code but operates on a different data corruption example. We have added detailed comments to one of the notebooks ([here](https://github.com/bccp/DeepUQ/blob/master/notebooks/ImageCorruptionMNIST_masknoise05_SVI.ipynb)).
 
 ### Contributors
-Vanessa Boehm  
-Francois Lanusse  
-Uros Seljak  
+Vanessa Boehm, Francois Lanusse, Uros Seljak  
 
 ### References
 Posterior Analysis:  
