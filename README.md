@@ -31,7 +31,7 @@ We can then visualize these samples by forward modeling them to data space:
 This gives us an estimate of the uncertainty of our reconstruction.
 
 ### How to use this repo?
-The notebooks should be ready to plug and play (preferantially on a GPU). The module folder contains our pretrained generative model that the notebooks need to access. Each notebook contains essentially the same code but operates on a different data corruption example. We have added detailed comments to one of the notebooks. 
+The notebooks should be ready to plug and play (preferantially on a GPU). The module folder contains our pretrained generative model that the notebooks need to access. Each notebook contains essentially the same code but operates on a different data corruption example. We have added detailed comments to one of the notebooks ([here](notebooks/ImageCorruptionMNIST-masknoise05_SVI.ipynb)
 
 ### Contributors
 Vanessa Boehm  
