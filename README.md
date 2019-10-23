@@ -2,7 +2,7 @@
 ## Bayesian Uncertainty Quantification with Deep Generative Models
 
 Notebooks and trained models to reproduce the posterior analysis of all examples shown in the publication
-*Uncertainty Quantification with Generative Models*
+*Uncertainty Quantification with Generative Models* [[1](https://arxiv.org/abs/1910.10046)]
 (accepted to Bayesian Deep Learning, NeurIPS 2019 Workshop).
 
 ### What is DeepUQ?
@@ -37,6 +37,8 @@ The notebooks should be ready to plug and play (preferantially on a GPU). The mo
 Vanessa Böhm, François Lanusse, Uroš Seljak
 
 ### References
+This Publication:  
+https://arxiv.org/abs/1910.10046  
 Posterior Analysis:  
 https://arxiv.org/abs/1901.04454   
 Variational AutoEncoders (VAE):   
